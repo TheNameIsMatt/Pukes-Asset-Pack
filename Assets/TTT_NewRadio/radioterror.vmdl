@@ -38,7 +38,7 @@
 				[
 					{
 						_class = "RenderMeshFile"
-						filename = "models/TTT_NewRadio/Radio_LowSA.fbx"
+						filename = "models/TTT_NewRadio/Radio_Fix.fbx"
 						import_translation = [ 0.0, 0.0, 0.0 ]
 						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 0.03937
